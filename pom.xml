@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>react-rest-boot</name>
+	<name>React-Rest-Boot-Seed</name>
 	<description>Seed project for Spring Boot With React</description>
 
 
@@ -20,6 +20,7 @@
 
 	<modules>
 		<module>rest</module>
+		<module>client</module>
 	</modules>
 
 </project>
